@@ -1,0 +1,15 @@
+#new-book-form {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+}
+
+.line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#submit {
+  height: 30px;
+}
